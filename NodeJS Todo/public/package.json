@@ -2,7 +2,7 @@
   "name": "nodejs-todo",
   "version": "1.0.0",
   "description": "little todo app",
-  "main": "todo-list.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
